@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/apps/repository#repository-configuration
+name: Intelliclima CH
+url: 'https://github.com/smtpserver/intelliclimach'
+maintainer: Pommi13 <nicola@leonardis.it>
